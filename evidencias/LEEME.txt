@@ -1,9 +1,0 @@
-Guarda aqui tus seis capturas reales en PNG con estos nombres:
-01_registro.png
-02_consulta.png
-03_actualizacion.png
-04_eliminacion.png
-05_validacion.png
-06_persistencia.png
-
-Consulta GUIA_EVIDENCIAS_Y_GITHUB.md para el procedimiento.
