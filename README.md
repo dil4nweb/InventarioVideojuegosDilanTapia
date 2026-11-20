@@ -23,7 +23,6 @@ Esta aplicacion permite organizar un inventario personal de videojuegos. Resuelv
 - Avalonia UI **11.3.12** (incluido Avalonia.Controls.DataGrid) con XAML (`.axaml`).
 - ADO.NET con `Microsoft.Data.Sqlite` **8.0.11**.
 - SQLite como base de datos local.
-- No se utiliza Entity Framework ni ORM.
 
 ## Estructura y clases
 
@@ -43,7 +42,6 @@ InventarioVideojuegosDilanTapia/
 |-- Servicios/
 |   `-- VideojuegoServicio.cs
 |-- evidencias/
-|-- GUIA_EVIDENCIAS_Y_GITHUB.md
 |-- README.md
 `-- .gitignore
 ```
