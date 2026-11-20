@@ -1,7 +1,6 @@
 # Inventario de Videojuegos
 
 **Estudiante:** Dilan Tapia Mercado  
-**Asignatura:** Programacion con C# y .NET  
 **Tipo:** Aplicacion de escritorio
 
 ## Descripcion y problema
